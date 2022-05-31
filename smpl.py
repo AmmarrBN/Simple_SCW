@@ -1,3 +1,8 @@
+# Simple Tools By Ammar Executed
+# Powered Executed Team
+# Thx For Fadhil For Support Me
+# Simple Spam SCW
+
 import os,sys,time,requests,json
 from colorama import init,Fore,Back
 
