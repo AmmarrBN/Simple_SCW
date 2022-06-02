@@ -1,7 +1,7 @@
 # Simple Coding By Ammar Executex
 # Powered Executed Team
 # Thx For Mr_Dark,Xenzi,Sanz,Fadhil,Powerr-Python
-# & Member Executed-Team
+# Khoirul Anam & Member Executed-Team
 
 # Import lambda
 
